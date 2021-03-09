@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* form{
+  margin: 20px;
+}
+.input{
+  display: flex;
+  width:300px;
+  justify-content:space-between;
+  width: 280px;
+  margin: 5px;
+}
+input{
+  width: 270px;
+} */
+.edit12{
+  display: flex;
+  border: 1px solid;
+  margin: 5px;
+  justify-content:space-between;
+}

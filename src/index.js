@@ -3,10 +3,19 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Register from './components/Register';
+import Table from './components/Table';
+
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
+   {/* <Signup/> */}
+  
+   {/* <SignIn/> */}
+   
+  
   </React.StrictMode>,
   document.getElementById('root')
 );
